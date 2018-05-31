@@ -1,0 +1,250 @@
+[2018-05-31 17:48:17 +0800] [30361] [DEBUG] Current configuration:
+  proxy_protocol: False
+  worker_connections: 1000
+  statsd_host: None
+  max_requests_jitter: 0
+  post_fork: <function post_fork at 0x10cebac80>
+  errorlog: gunicorn.log
+  enable_stdio_inheritance: False
+  worker_class: sync
+  ssl_version: 2
+  suppress_ragged_eofs: True
+  syslog: False
+  syslog_facility: user
+  when_ready: <function when_ready at 0x10ceba9b0>
+  pre_fork: <function pre_fork at 0x10cebab18>
+  cert_reqs: 0
+  preload_app: False
+  keepalive: 2
+  accesslog: gunicorn_access.log
+  group: 20
+  graceful_timeout: 30
+  do_handshake_on_connect: False
+  spew: False
+  workers: 1
+  proc_name: None
+  sendfile: None
+  pidfile: None
+  umask: 0
+  on_reload: <function on_reload at 0x10ceba848>
+  pre_exec: <function pre_exec at 0x10cec22a8>
+  worker_tmp_dir: None
+  limit_request_fields: 100
+  pythonpath: None
+  on_exit: <function on_exit at 0x10cec2aa0>
+  config: None
+  logconfig: None
+  check_config: False
+  statsd_prefix: 
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  reload_engine: auto
+  proxy_allow_ips: ['127.0.0.1']
+  pre_request: <function pre_request at 0x10cec2410>
+  post_request: <function post_request at 0x10cec2500>
+  forwarded_allow_ips: ['127.0.0.1']
+  worker_int: <function worker_int at 0x10cebaf50>
+  raw_paste_global_conf: []
+  threads: 1
+  max_requests: 0
+  chdir: /Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas
+  daemon: True
+  user: 501
+  limit_request_line: 4094
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  certfile: None
+  on_starting: <function on_starting at 0x10ceba6e0>
+  post_worker_init: <function post_worker_init at 0x10cebade8>
+  child_exit: <function child_exit at 0x10cec2668>
+  worker_exit: <function worker_exit at 0x10cec27d0>
+  paste: None
+  default_proc_name: router.router_app:loader()
+  syslog_addr: unix:///var/run/syslog
+  syslog_prefix: None
+  ciphers: TLSv1
+  worker_abort: <function worker_abort at 0x10cec2140>
+  loglevel: debug
+  bind: ['127.0.0.1:8000']
+  raw_env: []
+  initgroups: False
+  capture_output: False
+  reload: False
+  limit_request_field_size: 8190
+  nworkers_changed: <function nworkers_changed at 0x10cec2938>
+  timeout: 30
+  keyfile: None
+  ca_certs: None
+  tmp_upload_dir: None
+  backlog: 2048
+  logger_class: gunicorn.glogging.Logger
+[2018-05-31 17:48:17 +0800] [30361] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 17:48:17 +0800] [30361] [DEBUG] Arbiter booted
+[2018-05-31 17:48:17 +0800] [30361] [INFO] Listening at: http://127.0.0.1:8000 (30361)
+[2018-05-31 17:48:17 +0800] [30361] [INFO] Using worker: sync
+[2018-05-31 17:48:17 +0800] [30362] [INFO] Booting worker with pid: 30362
+[2018-05-31 17:48:18 +0800] [30361] [DEBUG] 1 workers
+[2018-05-31 17:48:22 +0800] [30362] [DEBUG] GET /v1/model_workers_add
+[2018-05-31 17:48:26 +0800] [30362] [DEBUG] POST /v1/AI_model/predict
+[2018-05-31 17:48:53 +0800] [30362] [DEBUG] POST /v1/AI_model/predict
+[2018-05-31 17:50:01 +0800] [30362] [DEBUG] POST /v1/AI_model/predict
+[2018-05-31 17:50:46 +0800] [30362] [DEBUG] GET /v1/model_workers_remove
+[2018-05-31 17:50:49 +0800] [30362] [DEBUG] GET /v1/model_workers_add
+[2018-05-31 17:51:59 +0800] [30362] [DEBUG] PUT /v1/model_workers_add
+[2018-05-31 17:52:01 +0800] [30362] [DEBUG] GET /v1/model_workers_add
+[2018-05-31 17:52:20 +0800] [30362] [DEBUG] PUT /v1/model_workers_add
+[2018-05-31 17:56:55 +0800] [30362] [INFO] Worker exiting (pid: 30362)
+[2018-05-31 17:56:55 +0800] [30361] [INFO] Handling signal: term
+[2018-05-31 17:56:55 +0800] [30361] [INFO] Shutting down: Master
+[2018-05-31 17:57:06 +0800] [30382] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 17:57:06 +0800] [30382] [INFO] Listening at: http://127.0.0.1:8000 (30382)
+[2018-05-31 17:57:06 +0800] [30382] [INFO] Using worker: sync
+[2018-05-31 17:57:06 +0800] [30383] [INFO] Booting worker with pid: 30383
+[2018-05-31 18:30:36 +0800] [30382] [CRITICAL] WORKER TIMEOUT (pid:30383)
+[2018-05-31 18:30:36 +0800] [30383] [INFO] Worker exiting (pid: 30383)
+[2018-05-31 18:30:36 +0800] [30405] [INFO] Booting worker with pid: 30405
+[2018-05-31 18:32:34 +0800] [30405] [INFO] Worker exiting (pid: 30405)
+[2018-05-31 18:32:34 +0800] [30382] [INFO] Handling signal: term
+[2018-05-31 18:32:34 +0800] [30382] [INFO] Shutting down: Master
+[2018-05-31 18:32:41 +0800] [30451] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 18:32:41 +0800] [30451] [INFO] Listening at: http://127.0.0.1:8000 (30451)
+[2018-05-31 18:32:41 +0800] [30451] [INFO] Using worker: sync
+[2018-05-31 18:32:41 +0800] [30452] [INFO] Booting worker with pid: 30452
+[2018-05-31 18:33:10 +0800] [30452] [ERROR] Error handling request /v1/model_workers_add
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 176, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/falcon/api.py", line 279, in __call__
+    body, length = self._get_body(resp, env.get('wsgi.file_wrapper'))
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/falcon/api.py", line 721, in _get_body
+    body = body.encode('utf-8')
+AttributeError: 'dict' object has no attribute 'encode'
+[2018-05-31 18:33:51 +0800] [30466] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 18:33:51 +0800] [30466] [INFO] Listening at: http://127.0.0.1:8000 (30466)
+[2018-05-31 18:33:51 +0800] [30466] [INFO] Using worker: sync
+[2018-05-31 18:33:51 +0800] [30467] [INFO] Booting worker with pid: 30467
+[2018-05-31 18:37:59 +0800] [30476] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 18:37:59 +0800] [30476] [INFO] Listening at: http://127.0.0.1:8000 (30476)
+[2018-05-31 18:37:59 +0800] [30476] [INFO] Using worker: sync
+[2018-05-31 18:37:59 +0800] [30477] [INFO] Booting worker with pid: 30477
+[2018-05-31 18:38:18 +0800] [30452] [INFO] Worker exiting (pid: 30452)
+[2018-05-31 18:38:18 +0800] [30477] [INFO] Worker exiting (pid: 30477)
+[2018-05-31 18:38:18 +0800] [30467] [INFO] Worker exiting (pid: 30467)
+[2018-05-31 18:38:18 +0800] [30451] [INFO] Handling signal: term
+[2018-05-31 18:38:18 +0800] [30466] [INFO] Handling signal: term
+[2018-05-31 18:38:18 +0800] [30476] [INFO] Handling signal: term
+[2018-05-31 18:38:18 +0800] [30451] [INFO] Shutting down: Master
+[2018-05-31 18:38:18 +0800] [30476] [INFO] Shutting down: Master
+[2018-05-31 18:38:18 +0800] [30466] [INFO] Shutting down: Master
+[2018-05-31 18:38:26 +0800] [30491] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 18:38:26 +0800] [30491] [INFO] Listening at: http://127.0.0.1:8000 (30491)
+[2018-05-31 18:38:26 +0800] [30491] [INFO] Using worker: sync
+[2018-05-31 18:38:26 +0800] [30492] [INFO] Booting worker with pid: 30492
+[2018-05-31 18:49:46 +0800] [30492] [INFO] Worker exiting (pid: 30492)
+[2018-05-31 18:49:46 +0800] [30491] [INFO] Handling signal: term
+[2018-05-31 18:49:46 +0800] [30491] [INFO] Shutting down: Master
+[2018-05-31 18:49:53 +0800] [30514] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 18:49:53 +0800] [30514] [INFO] Listening at: http://127.0.0.1:8000 (30514)
+[2018-05-31 18:49:53 +0800] [30514] [INFO] Using worker: sync
+[2018-05-31 18:49:53 +0800] [30515] [INFO] Booting worker with pid: 30515
+[2018-05-31 18:51:50 +0800] [30515] [ERROR] Error handling request /v1/AI_model/predict
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 176, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/falcon/api.py", line 244, in __call__
+    responder(req, resp, **params)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/predict.py", line 58, in on_post
+    po = self.AI_worker_client.predict(prediction_input)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 101, in predict
+    worker = self.load_balancer.choose_worker(prediction_input.model_id)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/commons/src/load_balancer/worker_load_balancer.py", line 190, in choose_worker
+    raise Exception("No worker available for the given model! ")
+Exception: No worker available for the given model! 
+[2018-05-31 18:58:50 +0800] [30515] [INFO] Worker exiting (pid: 30515)
+[2018-05-31 18:58:50 +0800] [30514] [INFO] Handling signal: term
+[2018-05-31 18:58:50 +0800] [30514] [INFO] Shutting down: Master
+[2018-05-31 18:59:00 +0800] [30541] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 18:59:00 +0800] [30541] [INFO] Listening at: http://127.0.0.1:8000 (30541)
+[2018-05-31 18:59:00 +0800] [30541] [INFO] Using worker: sync
+[2018-05-31 18:59:00 +0800] [30542] [INFO] Booting worker with pid: 30542
+[2018-05-31 19:02:06 +0800] [30542] [ERROR] Error handling request /v1/AI_model/predict
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 176, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/falcon/api.py", line 244, in __call__
+    responder(req, resp, **params)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/predict.py", line 57, in on_post
+    po = self.AI_worker_client.predict(prediction_input)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 101, in predict
+    worker = self.load_balancer.choose_worker(prediction_input.model_id)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/commons/src/load_balancer/worker_load_balancer.py", line 184, in choose_worker
+    worker_request_count[worker_id]=1
+UnboundLocalError: local variable 'worker_request_count' referenced before assignment
+[2018-05-31 19:03:42 +0800] [30542] [INFO] Worker exiting (pid: 30542)
+[2018-05-31 19:03:42 +0800] [30541] [INFO] Handling signal: term
+[2018-05-31 19:03:42 +0800] [30541] [INFO] Shutting down: Master
+[2018-05-31 19:03:50 +0800] [30558] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 19:03:50 +0800] [30558] [INFO] Listening at: http://127.0.0.1:8000 (30558)
+[2018-05-31 19:03:50 +0800] [30558] [INFO] Using worker: sync
+[2018-05-31 19:03:50 +0800] [30559] [INFO] Booting worker with pid: 30559
+[2018-05-31 19:03:56 +0800] [30559] [ERROR] Error handling request /v1/AI_model/predict
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 135, in handle
+    self.handle_request(listener, req, client, addr)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 176, in handle_request
+    respiter = self.wsgi(environ, resp.start_response)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/falcon/api.py", line 244, in __call__
+    responder(req, resp, **params)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/predict.py", line 57, in on_post
+    po = self.AI_worker_client.predict(prediction_input)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 101, in predict
+    worker = self.load_balancer.choose_worker(prediction_input.model_id)
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/commons/src/load_balancer/worker_load_balancer.py", line 185, in choose_worker
+    worker_request_count[worker_id]=1
+UnboundLocalError: local variable 'worker_request_count' referenced before assignment
+[2018-05-31 19:04:46 +0800] [30559] [INFO] Worker exiting (pid: 30559)
+[2018-05-31 19:04:46 +0800] [30558] [INFO] Handling signal: term
+[2018-05-31 19:04:46 +0800] [30558] [INFO] Shutting down: Master
+[2018-05-31 19:04:53 +0800] [30572] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 19:04:53 +0800] [30572] [INFO] Listening at: http://127.0.0.1:8000 (30572)
+[2018-05-31 19:04:53 +0800] [30572] [INFO] Using worker: sync
+[2018-05-31 19:04:53 +0800] [30573] [INFO] Booting worker with pid: 30573
+[2018-05-31 19:12:37 +0800] [30573] [INFO] Worker exiting (pid: 30573)
+[2018-05-31 19:12:37 +0800] [30572] [INFO] Handling signal: term
+[2018-05-31 19:12:37 +0800] [30572] [INFO] Shutting down: Master
+[2018-05-31 19:19:14 +0800] [857] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 19:19:14 +0800] [857] [INFO] Listening at: http://127.0.0.1:8000 (857)
+[2018-05-31 19:19:14 +0800] [857] [INFO] Using worker: sync
+[2018-05-31 19:19:14 +0800] [858] [INFO] Booting worker with pid: 858
+[2018-05-31 19:29:50 +0800] [858] [INFO] Worker exiting (pid: 858)
+[2018-05-31 19:29:50 +0800] [857] [INFO] Handling signal: term
+[2018-05-31 19:29:50 +0800] [857] [INFO] Shutting down: Master
+[2018-05-31 19:29:57 +0800] [947] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 19:29:57 +0800] [947] [INFO] Listening at: http://127.0.0.1:8000 (947)
+[2018-05-31 19:29:57 +0800] [947] [INFO] Using worker: sync
+[2018-05-31 19:29:57 +0800] [948] [INFO] Booting worker with pid: 948
+[2018-05-31 19:37:28 +0800] [948] [INFO] Worker exiting (pid: 948)
+[2018-05-31 19:37:28 +0800] [947] [INFO] Handling signal: term
+[2018-05-31 19:37:28 +0800] [947] [INFO] Shutting down: Master
+[2018-05-31 19:37:35 +0800] [1012] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 19:37:35 +0800] [1012] [INFO] Listening at: http://127.0.0.1:8000 (1012)
+[2018-05-31 19:37:35 +0800] [1012] [INFO] Using worker: sync
+[2018-05-31 19:37:35 +0800] [1013] [INFO] Booting worker with pid: 1013
+[2018-05-31 19:42:52 +0800] [1013] [INFO] Worker exiting (pid: 1013)
+[2018-05-31 19:42:52 +0800] [1012] [INFO] Handling signal: term
+[2018-05-31 19:42:52 +0800] [1012] [INFO] Shutting down: Master
+[2018-05-31 19:42:59 +0800] [1058] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 19:42:59 +0800] [1058] [INFO] Listening at: http://127.0.0.1:8000 (1058)
+[2018-05-31 19:42:59 +0800] [1058] [INFO] Using worker: sync
+[2018-05-31 19:42:59 +0800] [1059] [INFO] Booting worker with pid: 1059
+[2018-05-31 20:09:19 +0800] [1059] [INFO] Worker exiting (pid: 1059)
+[2018-05-31 20:09:19 +0800] [1058] [INFO] Handling signal: term
+[2018-05-31 20:09:19 +0800] [1058] [INFO] Shutting down: Master
+[2018-05-31 20:09:30 +0800] [1275] [INFO] Starting gunicorn 19.7.1
+[2018-05-31 20:09:30 +0800] [1275] [INFO] Listening at: http://127.0.0.1:8000 (1275)
+[2018-05-31 20:09:30 +0800] [1275] [INFO] Using worker: sync
+[2018-05-31 20:09:30 +0800] [1276] [INFO] Booting worker with pid: 1276

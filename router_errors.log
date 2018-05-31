@@ -1,0 +1,1113 @@
+2018-05-31 17:48:26,706 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:26,708 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:26,710 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:26,711 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:26,712 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:26,714 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:54,002 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:54,003 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:54,005 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:54,006 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:54,007 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:48:54,008 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:50:01,380 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:50:01,381 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:50:01,383 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:50:01,384 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:50:01,386 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:50:01,387 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:23,198 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:23,200 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:23,202 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:23,203 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:23,205 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:23,206 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:25,503 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:25,505 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:25,506 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:25,508 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:25,509 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:25,510 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:27,553 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:27,556 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:27,557 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:27,559 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:27,561 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:27,563 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:30,080 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:30,081 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:30,082 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:30,084 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:30,086 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:30,087 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:32,062 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:32,064 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:32,065 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:32,066 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:32,068 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:32,069 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:33,928 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:33,930 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:33,932 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:33,934 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:33,936 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:33,937 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:35,606 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:35,607 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:35,609 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:35,611 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:35,612 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 17:57:35,614 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:30:52,678 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:30:52,681 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:30:52,683 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:30:52,697 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:30:52,705 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:30:52,707 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:34:31,992 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:34:31,994 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:34:31,995 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:34:31,996 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:34:31,998 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:34:31,999 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:35:00,683 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:35:00,685 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:35:00,687 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:35:00,689 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:35:00,691 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:35:00,693 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:04,361 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:04,364 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:04,366 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:04,367 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:04,369 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:04,371 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:30,950 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:30,953 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:30,954 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:30,956 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:30,957 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:30,958 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:58,453 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:58,454 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:58,456 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:58,457 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:58,458 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:38:58,460 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:08,032 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:08,034 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:08,035 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:08,036 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:08,038 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:08,040 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:10,313 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:10,314 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:10,316 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:10,318 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:10,319 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:10,321 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:12,034 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:12,035 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:12,037 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:12,039 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:12,040 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:12,042 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:13,791 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:13,792 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:13,793 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:13,794 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:13,796 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:13,797 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:15,420 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:15,424 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:15,429 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:15,433 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:15,435 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:15,437 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:16,940 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:16,943 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:16,946 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:16,950 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:16,953 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:50:16,955 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:52:15,209 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:52:15,212 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:52:15,213 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:52:15,214 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:52:15,216 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:52:15,217 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:55:05,104 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:55:05,105 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:55:05,106 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:55:05,108 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:55:05,110 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:55:05,111 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:59:18,244 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:59:18,246 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:59:18,248 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:59:18,250 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:59:18,251 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 18:59:18,252 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:04:57,520 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:04:57,522 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:04:57,523 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:04:57,525 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:04:57,526 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:04:57,528 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:06:43,795 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:06:43,797 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:06:43,799 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:06:43,801 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:06:43,802 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:06:43,804 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:21:09,996 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:21:09,998 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:21:09,999 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:21:10,000 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:21:10,001 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:21:10,002 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:11,139 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:11,140 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:11,142 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:11,143 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:11,144 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:11,146 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:29,804 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:29,806 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:29,807 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:29,808 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:29,810 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:25:29,812 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:30:03,207 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:30:03,208 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:30:03,209 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:30:03,211 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:30:03,213 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:30:03,214 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:31:41,148 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:31:41,149 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:31:41,151 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:31:41,152 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:31:41,154 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:31:41,156 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:33:49,982 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:33:49,983 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:33:49,985 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:33:49,987 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:33:49,988 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:33:49,989 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:34:35,441 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:34:35,442 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:34:35,444 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:34:35,446 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:34:35,447 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:34:35,449 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:37:40,036 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:37:40,038 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:37:40,039 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:37:40,040 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:37:40,041 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:37:40,043 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/Downloads/BigRLab_APIs/demoday_fs/web_lab/AIaas/AIaas/router/AI_worker_client.py", line 121, in predict
+    prediction_output.result = client.predict(prediction_input)
+AttributeError: 'NoneType' object has no attribute 'predict'
+2018-05-31 19:43:03,578 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
+2018-05-31 19:43:06,201 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
+2018-05-31 19:43:07,619 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
+2018-05-31 19:43:09,101 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
+2018-05-31 19:44:34,651 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
+2018-05-31 19:44:39,830 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
+2018-05-31 20:09:37,162 - AIaas.router.AI_worker_client - ERROR - Predict has failed.. 
+Traceback (most recent call last):
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 68, in run_for_one
+    self.accept(listener)
+  File "/Users/leepand/anaconda2/lib/python2.7/site-packages/gunicorn/workers/sync.py", line 27, in accept
+    client, addr = listener.accept()
+  File "/Users/leepand/anaconda2/lib/python2.7/socket.py", line 206, in accept
+    sock, addr = self._sock.accept()
+error: [Errno 35] Resource temporarily unavailable
